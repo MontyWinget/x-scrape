@@ -1,0 +1,7 @@
+venv/
+venv311/
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+data/processed/stocktwits_parquet/
